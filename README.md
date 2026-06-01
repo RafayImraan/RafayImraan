@@ -1,7 +1,7 @@
 <div align="center">
 
 # Abdul Rafay
-### Full-Stack · AI/ML · Web3 Engineer
+### Software Engineer | Backend & Full-Stack (MERN, FastAPI) | Web3 (Starknet, Hedera) | AI/ML | Open to remote opportunities
 
 Software Engineering student at the University of Karachi building production-grade systems across three domains — applied AI, decentralized finance, and infrastructure intelligence. Every project ships with full source, a working setup, and a technical write-up.
 
